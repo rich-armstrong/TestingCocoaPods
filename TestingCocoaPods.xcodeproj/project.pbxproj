@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01BDF5753A1B464393607B6F /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CB70590EACE64DE4AFB726CF /* libPods.a */; };
+		5676206F192D18030041F660 /* LIALinkedInApplication.m in Sources */ = {isa = PBXBuildFile; fileRef = 56762068192D18030041F660 /* LIALinkedInApplication.m */; };
+		56762070192D18030041F660 /* LIALinkedInAuthorizationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5676206A192D18030041F660 /* LIALinkedInAuthorizationViewController.m */; };
+		56762071192D18030041F660 /* LIALinkedInHttpClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 5676206C192D18030041F660 /* LIALinkedInHttpClient.m */; };
+		56762072192D18030041F660 /* NSString+LIAEncode.m in Sources */ = {isa = PBXBuildFile; fileRef = 5676206E192D18030041F660 /* NSString+LIAEncode.m */; };
 		56ECCC2F192BA2C200E096B5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56ECCC2E192BA2C200E096B5 /* Foundation.framework */; };
 		56ECCC31192BA2C200E096B5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56ECCC30192BA2C200E096B5 /* CoreGraphics.framework */; };
 		56ECCC33192BA2C200E096B5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 56ECCC32192BA2C200E096B5 /* UIKit.framework */; };
@@ -34,6 +39,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		56762067192D18030041F660 /* LIALinkedInApplication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LIALinkedInApplication.h; sourceTree = "<group>"; };
+		56762068192D18030041F660 /* LIALinkedInApplication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LIALinkedInApplication.m; sourceTree = "<group>"; };
+		56762069192D18030041F660 /* LIALinkedInAuthorizationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LIALinkedInAuthorizationViewController.h; sourceTree = "<group>"; };
+		5676206A192D18030041F660 /* LIALinkedInAuthorizationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LIALinkedInAuthorizationViewController.m; sourceTree = "<group>"; };
+		5676206B192D18030041F660 /* LIALinkedInHttpClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LIALinkedInHttpClient.h; sourceTree = "<group>"; };
+		5676206C192D18030041F660 /* LIALinkedInHttpClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LIALinkedInHttpClient.m; sourceTree = "<group>"; };
+		5676206D192D18030041F660 /* NSString+LIAEncode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+LIAEncode.h"; sourceTree = "<group>"; };
+		5676206E192D18030041F660 /* NSString+LIAEncode.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+LIAEncode.m"; sourceTree = "<group>"; };
 		56ECCC2B192BA2C200E096B5 /* TestingCocoaPods.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestingCocoaPods.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56ECCC2E192BA2C200E096B5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		56ECCC30192BA2C200E096B5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +66,8 @@
 		56ECCC55192BA2C200E096B5 /* TestingCocoaPodsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TestingCocoaPodsTests-Info.plist"; sourceTree = "<group>"; };
 		56ECCC57192BA2C200E096B5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		56ECCC59192BA2C200E096B5 /* TestingCocoaPodsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestingCocoaPodsTests.m; sourceTree = "<group>"; };
+		A1466A1C263948C8BDD1FE2F /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		CB70590EACE64DE4AFB726CF /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +78,7 @@
 				56ECCC31192BA2C200E096B5 /* CoreGraphics.framework in Frameworks */,
 				56ECCC33192BA2C200E096B5 /* UIKit.framework in Frameworks */,
 				56ECCC2F192BA2C200E096B5 /* Foundation.framework in Frameworks */,
+				01BDF5753A1B464393607B6F /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,6 +95,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		56762066192D17F40041F660 /* LinkedInAPI */ = {
+			isa = PBXGroup;
+			children = (
+				56762067192D18030041F660 /* LIALinkedInApplication.h */,
+				56762068192D18030041F660 /* LIALinkedInApplication.m */,
+				56762069192D18030041F660 /* LIALinkedInAuthorizationViewController.h */,
+				5676206A192D18030041F660 /* LIALinkedInAuthorizationViewController.m */,
+				5676206B192D18030041F660 /* LIALinkedInHttpClient.h */,
+				5676206C192D18030041F660 /* LIALinkedInHttpClient.m */,
+				5676206D192D18030041F660 /* NSString+LIAEncode.h */,
+				5676206E192D18030041F660 /* NSString+LIAEncode.m */,
+			);
+			name = LinkedInAPI;
+			sourceTree = "<group>";
+		};
 		56ECCC22192BA2C200E096B5 = {
 			isa = PBXGroup;
 			children = (
@@ -86,6 +117,7 @@
 				56ECCC53192BA2C200E096B5 /* TestingCocoaPodsTests */,
 				56ECCC2D192BA2C200E096B5 /* Frameworks */,
 				56ECCC2C192BA2C200E096B5 /* Products */,
+				A1466A1C263948C8BDD1FE2F /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,6 +137,7 @@
 				56ECCC30192BA2C200E096B5 /* CoreGraphics.framework */,
 				56ECCC32192BA2C200E096B5 /* UIKit.framework */,
 				56ECCC4D192BA2C200E096B5 /* XCTest.framework */,
+				CB70590EACE64DE4AFB726CF /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -112,12 +145,10 @@
 		56ECCC34192BA2C200E096B5 /* TestingCocoaPods */ = {
 			isa = PBXGroup;
 			children = (
-				56ECCC3D192BA2C200E096B5 /* TestingAppDelegate.h */,
-				56ECCC3E192BA2C200E096B5 /* TestingAppDelegate.m */,
+				56762066192D17F40041F660 /* LinkedInAPI */,
 				56ECCC40192BA2C200E096B5 /* Main.storyboard */,
-				56ECCC43192BA2C200E096B5 /* TestingViewController.h */,
-				56ECCC44192BA2C200E096B5 /* TestingViewController.m */,
-				56ECCC46192BA2C200E096B5 /* Images.xcassets */,
+				56ECCC64192BA45700E096B5 /* View Controllers */,
+				56ECCC63192BA44700E096B5 /* Assets */,
 				56ECCC35192BA2C200E096B5 /* Supporting Files */,
 			);
 			path = TestingCocoaPods;
@@ -126,6 +157,8 @@
 		56ECCC35192BA2C200E096B5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				56ECCC3D192BA2C200E096B5 /* TestingAppDelegate.h */,
+				56ECCC3E192BA2C200E096B5 /* TestingAppDelegate.m */,
 				56ECCC36192BA2C200E096B5 /* TestingCocoaPods-Info.plist */,
 				56ECCC37192BA2C200E096B5 /* InfoPlist.strings */,
 				56ECCC3A192BA2C200E096B5 /* main.m */,
@@ -152,6 +185,23 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		56ECCC63192BA44700E096B5 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				56ECCC46192BA2C200E096B5 /* Images.xcassets */,
+			);
+			name = Assets;
+			sourceTree = "<group>";
+		};
+		56ECCC64192BA45700E096B5 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				56ECCC43192BA2C200E096B5 /* TestingViewController.h */,
+				56ECCC44192BA2C200E096B5 /* TestingViewController.m */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -159,9 +209,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 56ECCC5D192BA2C200E096B5 /* Build configuration list for PBXNativeTarget "TestingCocoaPods" */;
 			buildPhases = (
+				AE339DCF85864D8EBB648294 /* Check Pods Manifest.lock */,
 				56ECCC27192BA2C200E096B5 /* Sources */,
 				56ECCC28192BA2C200E096B5 /* Frameworks */,
 				56ECCC29192BA2C200E096B5 /* Resources */,
+				84474DA29FEA47F89C94920A /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -245,6 +297,39 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		84474DA29FEA47F89C94920A /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AE339DCF85864D8EBB648294 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		56ECCC27192BA2C200E096B5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -252,7 +337,11 @@
 			files = (
 				56ECCC45192BA2C200E096B5 /* TestingViewController.m in Sources */,
 				56ECCC3B192BA2C200E096B5 /* main.m in Sources */,
+				56762072192D18030041F660 /* NSString+LIAEncode.m in Sources */,
 				56ECCC3F192BA2C200E096B5 /* TestingAppDelegate.m in Sources */,
+				5676206F192D18030041F660 /* LIALinkedInApplication.m in Sources */,
+				56762070192D18030041F660 /* LIALinkedInAuthorizationViewController.m in Sources */,
+				56762071192D18030041F660 /* LIALinkedInHttpClient.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -374,6 +463,7 @@
 		};
 		56ECCC5E192BA2C200E096B5 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A1466A1C263948C8BDD1FE2F /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -387,6 +477,7 @@
 		};
 		56ECCC5F192BA2C200E096B5 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A1466A1C263948C8BDD1FE2F /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -457,6 +548,7 @@
 				56ECCC5F192BA2C200E096B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		56ECCC60192BA2C200E096B5 /* Build configuration list for PBXNativeTarget "TestingCocoaPodsTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +557,7 @@
 				56ECCC62192BA2C200E096B5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

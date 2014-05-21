@@ -1,0 +1,894 @@
+TTestingCocoaPods
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-AE339DCF85864D8EBB648294.sh
+cProcessPCH /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch.pch TestingCocoaPods/TestingCocoaPods-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingViewController.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/main.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/NSString+LIAEncode.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingAppDelegate.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInApplication.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInAuthorizationViewController.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInHttpClient.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods normal i386
+cCopyStringsFile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/en.lproj/InfoPlist.strings TestingCocoaPods/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Images.xcassets
+cProcessInfoPlistFile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Info.plist /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingCocoaPods-Info.plist
+cGenerateDSYMFile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app.dSYM /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-84474DA29FEA47F89C94920A.sh
+cTouch /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534889450000000000000198
+t1397262661
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531F85BE00000000000003B4
+t1394574782
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531F85C2000000000000019E
+t1394574786
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531F85C4000000000058E0E0
+t1394574788
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000531F85C400000000006CED60
+t1394574788
+s7138656
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531F85C400000000005B82F0
+t1394574788
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534889250000000000446820
+t1397262629
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000531F85C400000000003599D0
+t1394574788
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531F85C400000000002FC3B0
+t1394574788
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531F85C4000000000004B000
+t1394574788
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531F85C4000000000088D8C0
+t1394574788
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000531F85C500000000001BE790
+t1394574789
+s1828752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000531F85C50000000000037680
+t1394574789
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531F85C5000000000048F720
+t1394574789
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c00000000531F85C5000000000013FD70
+t1394574789
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000531F85C500000000001081C0
+t1394574789
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531F85C70000000001F1DE10
+t1394574791
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000531F85CD00000000002BC360
+t1394574797
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c00000000531F85D00000000000002338
+t1394574800
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c00000000531F85D1000000000008D370
+t1394574801
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c00000000531F85D10000000000392E20
+t1394574801
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c000000005310FDEF00000000000141F0
+t1393622511
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c00000000531F85D10000000000014A80
+t1394574801
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c00000000531F85D10000000000033BA0
+t1394574801
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c00000000531F85D1000000000001CFB0
+t1394574801
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c00000000531F85D1000000000001B2B0
+t1394574801
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c00000000531F85D100000000000C9570
+t1394574801
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000531F85D10000000000063280
+t1394574801
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c00000000531F85D10000000000008880
+t1394574801
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c00000000531F85D10000000000015080
+t1394574801
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c00000000531F85D100000000000230F0
+t1394574801
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c00000000531F85D1000000000000E380
+t1394574801
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531F85D10000000000089380
+t1394574801
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c00000000531F85D10000000000017320
+t1394574801
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c00000000531F85D10000000000039CD0
+t1394574801
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c00000000531F85D1000000000000B0B0
+t1394574801
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c00000000531F85D10000000000167E80
+t1394574801
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c00000000531F85D100000000000106A0
+t1394574801
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c00000000531F85D1000000000001CE40
+t1394574801
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c00000000531F85D100000000000740C0
+t1394574801
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c00000000531F85D1000000000006CA60
+t1394574801
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c00000000531F85D1000000000001BAD0
+t1394574801
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000531F85D10000000000084A20
+t1394574801
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531F85DD0000000000000ADC
+t1394574813
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053488925000000000000514C
+t1397262629
+s20812
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch.pch
+t1400686293
+s126008
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInApplication.o
+t1400692873
+s17044
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInAuthorizationViewController.o
+t1400692873
+s75048
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInHttpClient.o
+t1400701183
+s62132
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/NSString+LIAEncode.o
+t1400692873
+s6248
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingAppDelegate.o
+t1400686293
+s62748
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingCocoaPods.LinkFileList
+c00000000537CE0890000000000000549
+t1400692873
+s1353
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingViewController.o
+t1400700852
+s57776
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/main.o
+t1400686293
+s3628
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-84474DA29FEA47F89C94920A.sh
+c00000000537CC6D5000000000000002F
+t1400686293
+s47
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-AE339DCF85864D8EBB648294.sh
+c00000000537CC6D50000000000000103
+t1400686293
+s259
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/assetcatalog_dependencies.txt
+t1400700182
+s479
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/assetcatalog_generated_info.plist
+t1400700182
+s525
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app
+t1400701184
+s306
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app.dSYM
+t1400701184
+s102
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Base.lproj/Main.storyboardc
+t1400700231
+s170
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Info.plist
+t1400700183
+s1043
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/PkgInfo
+t1400700183
+s8
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods
+t1400701184
+s1759412
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/en.lproj/InfoPlist.strings
+t1400700182
+s42
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a
+c00000000537CC6D500000000003A9000
+t1400686293
+s3837952
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Base.lproj/Main.storyboard
+c00000000537CFD470000000000000B3F
+t1400700231
+s2879
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Images.xcassets
+c00000000537B6B420000000000000088
+t1400597314
+s136
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.h
+c00000000537B6E7300000000000007BD
+t1400598131
+s1981
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.m
+c00000000537CD75400000000000008D1
+t1400690516
+s2257
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.h
+c00000000537B6E7300000000000006B8
+t1400598131
+s1720
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.m
+c00000000537B6E730000000000001BA9
+t1400598131
+s7081
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.h
+c00000000537CE13500000000000006F5
+t1400693045
+s1781
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.m
+c00000000537D00FF00000000000016DA
+t1400701183
+s5850
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.h
+c00000000537B6E7300000000000004FD
+t1400598131
+s1277
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.m
+c00000000537B6E7300000000000005CA
+t1400598131
+s1482
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.h
+c00000000537B6B420000000000000127
+t1400597314
+s295
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.m
+c00000000537B6B4200000000000007F0
+t1400597314
+s2032
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingCocoaPods-Info.plist
+c00000000537B6B4200000000000004C8
+t1400597314
+s1224
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingCocoaPods-Prefix.pch
+c00000000537B6B420000000000000158
+t1400597314
+s344
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingViewController.h
+c00000000537B6B4200000000000000E9
+t1400597314
+s233
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingViewController.m
+c00000000537CFFB40000000000000B5A
+t1400700852
+s2906
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/en.lproj/InfoPlist.strings
+c00000000537B6B42000000000000002D
+t1400597314
+s45
+
+N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/main.m
+c00000000537B6B420000000000000163
+t1400597314
+s355
+
+N/usr/lib/libSystem.B.dylib
+c0000000052674D68000000000000E6D0
+t1382501736
+s59088
+
+N/usr/lib/system/libcache.dylib
+c0000000052674D730000000000012A00
+t1382501747
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052674D5D000000000002E320
+t1382501725
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c0000000052674D680000000000021860
+t1382501736
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c0000000052674D72000000000001B620
+t1382501746
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c0000000052674D7200000000000BD920
+t1382501746
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c0000000052674D73000000000000A120
+t1382501747
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005310FDEF000000000001D550
+t1393622511
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c0000000052674D720000000000014EE0
+t1382501746
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c0000000052674D740000000000010380
+t1382501748
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052674D74000000000000C4C0
+t1382501748
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c0000000052674D7300000000000357A0
+t1382501747
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c0000000052674D73000000000000C070
+t1382501747
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000530299D10000000000168D00
+t1392679377
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005310FDEF0000000000010630
+t1393622511
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c000000005310FDEF000000000001DF10
+t1393622511
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c0000000052674D680000000000075B00
+t1382501736
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c000000005357CA37000000000007CC70
+t1398262327
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c0000000052674D6800000000000766C0
+t1382501736
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000530299D00000000000044DC0
+t1392679376
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c0000000052674D680000000000021FA0
+t1382501736
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005310FDEF000000000002D920
+t1393622511
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052674D73000000000001E570
+t1382501747
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c000000005310FDEF000000000000CC70
+t1393622511
+s52336
+
+N/usr/lib/system/libunc.dylib
+c0000000052674D6F000000000000C3F0
+t1382501743
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c0000000052674D7300000000000199F0
+t1382501747
+s104944
+
+CBuild AST from /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.m
+r0
+
+CBuild AST from /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.m
+r0
+
+CBuild AST from /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.m
+r0
+
+CBuild AST from /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.m
+r0
+
+CBuild AST from /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.m
+r0
+
+CBuild AST from /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingViewController.m
+r0
+
+CBuild AST from /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf148fcd2382db941^4d6afcd2382db941^---0#1#1#--18"Check dependencies36"A5B27504-1332-445E-A177-562C535B9685-
+
+CCompileAssetCatalog /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Images.xcassets
+s422392982.710207
+e422392982.983025
+r1
+xCompileAssetCatalog
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/LaunchImage-700-568h@2x.png
+o/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Assets.car
+o/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TestingCocoaPods.app TestingCocoaPods/Images.xcassets110"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TestingCocoaPods.app TestingCocoaPods/Images.xcassets87dbb596342db941^124ffe96342db941^-507"/* com.apple.actool.compilation-results *//Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/LaunchImage-700-568h@2x.png/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Assets.car/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@102"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Images.xcassets/0000000000000000^1325"CompileAssetCatalog Build/Products/Debug-iphonesimulator/TestingCocoaPods.app TestingCocoaPods/Images.xcassets    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Images.xcassets36"0AAFA1BA-E4B9-44B9-B5D9-C1286C486F9D-
+b0C9D59C3-F3F2-471C-8FBA-0AD3C678B64C
+
+CCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInApplication.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422385673.210705
+e422385673.469569
+r1
+xCompileC
+xBuild/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInApplication.o
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.m
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.m251"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInApplication.o TestingCocoaPods/LIALinkedInApplication.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb8063609182db941^6d3c7809182db941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.m0000000000000000^6346"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInApplication.o TestingCocoaPods/LIALinkedInApplication.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/richardarmstrong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-generated-files.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-own-target-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-all-target-headers.hmap -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-project-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/include -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources/i386 -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources -F/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -include /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch -MMD -MT dependencies -MF /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInApplication.d --serialize-diagnostics /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInApplication.dia -c /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.m -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInApplication.o36"889F1FC5-B6F5-410D-BE70-17361A00B99A-
+bFB2BF202-B4FF-47F5-90F8-ECA8F6A6124C
+
+CCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInAuthorizationViewController.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422385673.211160
+e422385673.469482
+r1
+xCompileC
+xBuild/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInAuthorizationViewController.o
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.m
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.h
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.h
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.m283"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInAuthorizationViewController.o TestingCocoaPods/LIALinkedInAuthorizationViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler882c3609182db941^61337809182db941^---0#0#1#-19%DVTDocumentLocation2@126"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.m0000000000000000^6442"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInAuthorizationViewController.o TestingCocoaPods/LIALinkedInAuthorizationViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/richardarmstrong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-generated-files.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-own-target-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-all-target-headers.hmap -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-project-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/include -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources/i386 -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources -F/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -include /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch -MMD -MT dependencies -MF /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInAuthorizationViewController.d --serialize-diagnostics /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInAuthorizationViewController.dia -c /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.m -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInAuthorizationViewController.o36"CAEFC32C-7A1E-4643-821B-7A7FB48CFC18-
+bFB2BF202-B4FF-47F5-90F8-ECA8F6A6124C
+
+CCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInHttpClient.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422393983.900809
+e422393983.960765
+r1
+xCompileC
+xBuild/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInHttpClient.o
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.m
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.h
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInAuthorizationViewController.h
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.h
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.m249"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInHttpClient.o TestingCocoaPods/LIALinkedInHttpClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdeafe67f382db941^1ff7f57f382db941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.m0000000000000000^6340"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInHttpClient.o TestingCocoaPods/LIALinkedInHttpClient.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/richardarmstrong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-generated-files.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-own-target-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-all-target-headers.hmap -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-project-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/include -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources/i386 -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources -F/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -include /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch -MMD -MT dependencies -MF /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInHttpClient.d --serialize-diagnostics /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInHttpClient.dia -c /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.m -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInHttpClient.o36"6DA73D97-ECDA-47E4-B347-60A6636FE7AD-
+b54ECA013-D10A-40EB-8040-B6086D2FC54E
+
+CCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/NSString+LIAEncode.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422385673.210138
+e422385673.365735
+r1
+xCompileC
+xBuild/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/NSString+LIAEncode.o
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.m
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.m243"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/NSString+LIAEncode.o TestingCocoaPods/NSString+LIAEncode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerecdf3509182db941^3f6f5e09182db941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.m0000000000000000^6322"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/NSString+LIAEncode.o TestingCocoaPods/NSString+LIAEncode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/richardarmstrong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-generated-files.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-own-target-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-all-target-headers.hmap -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-project-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/include -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources/i386 -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources -F/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -include /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch -MMD -MT dependencies -MF /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/NSString+LIAEncode.d --serialize-diagnostics /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/NSString+LIAEncode.dia -c /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/NSString+LIAEncode.m -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/NSString+LIAEncode.o36"42C34B3D-C993-41A2-87C4-66BA3F8938BC-
+bFB2BF202-B4FF-47F5-90F8-ECA8F6A6124C
+
+CCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingAppDelegate.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422379093.307351
+e422379093.451856
+r1
+xCompileC
+xBuild/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingAppDelegate.o
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.m
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.m243"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingAppDelegate.o TestingCocoaPods/TestingAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler93c44e55fe2cb941^7dad7355fe2cb941^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.m0000000000000000^6322"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingAppDelegate.o TestingCocoaPods/TestingAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/richardarmstrong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-generated-files.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-own-target-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-all-target-headers.hmap -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-project-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/include -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources/i386 -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources -F/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -include /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch -MMD -MT dependencies -MF /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingAppDelegate.d --serialize-diagnostics /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingAppDelegate.dia -c /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.m -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingAppDelegate.o36"31F57D32-EA50-40D3-8956-BA38050E43E6-
+b383A49CC-9CD7-4B70-945E-954116E4704B
+
+CCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingViewController.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422393652.419519
+e422393652.476636
+r1
+xCompileC
+xBuild/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingViewController.o
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingViewController.m
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingViewController.h
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInHttpClient.h
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/LIALinkedInApplication.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingViewController.m249"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingViewController.o TestingCocoaPods/TestingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercc7c6b34372db941^cd057a34372db941^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingViewController.m0000000000000000^6340"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingViewController.o TestingCocoaPods/TestingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/richardarmstrong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-generated-files.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-own-target-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-all-target-headers.hmap -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-project-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/include -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources/i386 -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources -F/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -include /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch -MMD -MT dependencies -MF /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingViewController.d --serialize-diagnostics /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingViewController.dia -c /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingViewController.m -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingViewController.o36"10A7D9C4-7BB7-44F6-A48D-388CF7D14F89-
+b7A98FFCD-981F-40AF-B5F9-2CB513BC25D2
+
+CCompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/main.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422379093.307089
+e422379093.347150
+r1
+xCompileC
+xBuild/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/main.o
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/main.m
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/main.m215"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/main.o TestingCocoaPods/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler45b74e55fe2cb941^1e185c55fe2cb941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/main.m0000000000000000^6238"CompileC Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/main.o TestingCocoaPods/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/richardarmstrong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-generated-files.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-own-target-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-all-target-headers.hmap -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-project-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/include -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources/i386 -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources -F/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -include /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch -MMD -MT dependencies -MF /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/main.dia -c /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/main.m -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/main.o36"23D675E3-BB3A-477D-8CDF-A296819BF227-
+b383A49CC-9CD7-4B70-945E-954116E4704B
+
+CCompileStoryboard /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Base.lproj/Main.storyboard
+s422393031.182501
+e422393031.470640
+r1
+xCompileStoryboard
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"CompileStoryboard TestingCocoaPods/Base.lproj/Main.storyboard61"CompileStoryboard TestingCocoaPods/Base.lproj/Main.storyboardd6c42ec7342db941^e97c78c7342db941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Base.lproj/Main.storyboard0000000000000000^935"CompileStoryboard TestingCocoaPods/Base.lproj/Main.storyboard    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Base.lproj/Main.storyboardc /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/Base.lproj/Main.storyboard36"FA88415B-FF16-4A64-8564-A1CF03D2EC2E-
+b9544B717-5268-40DB-BBF9-4C19596F8A9C
+
+CCopyStringsFile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/en.lproj/InfoPlist.strings TestingCocoaPods/en.lproj/InfoPlist.strings
+s422392982.709738
+e422392982.731201
+r1
+xCopyStringsFile
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/en.lproj/InfoPlist.strings
+xTestingCocoaPods/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Copy TestingCocoaPods/en.lproj/InfoPlist.strings144"CopyStringsFile Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/en.lproj/InfoPlist.strings TestingCocoaPods/en.lproj/InfoPlist.strings44c0b596342db941^4433bb96342db941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/en.lproj/InfoPlist.strings0000000000000000^675"CopyStringsFile Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/en.lproj/InfoPlist.strings TestingCocoaPods/en.lproj/InfoPlist.strings    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/en.lproj -- TestingCocoaPods/en.lproj/InfoPlist.strings36"B1F04C3A-BEC9-4F86-9689-4D40F5FA7E52-
+b0C9D59C3-F3F2-471C-8FBA-0AD3C678B64C
+
+CGenerateDSYMFile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app.dSYM /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods
+s422393984.059233
+e422393984.126055
+r1
+xGenerateDSYMFile
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app.dSYM
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Generate /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app.dSYM154"GenerateDSYMFile Build/Products/Debug-iphonesimulator/TestingCocoaPods.app.dSYM Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods0d380f80382db941^fe452080382db941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app.dSYM/0000000000000000^784"GenerateDSYMFile Build/Products/Debug-iphonesimulator/TestingCocoaPods.app.dSYM Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app.dSYM36"8A73925B-4C4C-4CC6-A3B9-FFCF30991C7F-
+b54ECA013-D10A-40EB-8040-B6086D2FC54E
+
+CLd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods normal i386
+s422393983.962956
+e422393984.057603
+r1
+xLd
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods
+xnormal
+xi386
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingCocoaPods.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingViewController.o
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/main.o
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/NSString+LIAEncode.o
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingAppDelegate.o
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInApplication.o
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInAuthorizationViewController.o
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/LIALinkedInHttpClient.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Link /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods89"Ld Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods normal i386f792f67f382db941^fdbf0e80382db941^---0#0#1#--1776"Ld Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods normal i386    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -F/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -filelist /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingCocoaPods.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CFNetwork -framework CoreData -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Objects-normal/i386/TestingCocoaPods_dependency_info.dat -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/TestingCocoaPods36"691B9AC0-13A4-4AB5-ADD7-A4AA22C30562-
+b54ECA013-D10A-40EB-8040-B6086D2FC54E
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-AE339DCF85864D8EBB648294.sh
+s422394066.986283
+e422394066.998382
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-AE339DCF85864D8EBB648294.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'170"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-AE339DCF85864D8EBB648294.shd508fdd2382db941^1497ffd2382db941^---0#0#1#--440"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-AE339DCF85864D8EBB648294.sh    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    /bin/sh -c /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-AE339DCF85864D8EBB648294.sh36"24A8DA0F-B351-46B1-BFF4-4937F7783BC5-
+bF3021640-B40C-4431-B37D-A42FA9092234
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-84474DA29FEA47F89C94920A.sh
+s422394067.001759
+e422394067.296992
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-84474DA29FEA47F89C94920A.sh
+obuilding file list ... done
+o
+osent 29 bytes  received 20 bytes  98.00 bytes/sec
+ototal size is 0  speedup is 0.00
+o/* com.apple.actool.compilation-results */
+o/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'165"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-84474DA29FEA47F89C94920A.sh9dbc00d3382db941^b8c84dd3382db941^-287"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-422394067#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-422394067#29#50#-0#-----2@33"total size is 0  speedup is 0.00-422394067#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-422394067#112#43#-0#-----2@131"/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Assets.car-422394067#155#131#-0#-----0#0#1#--435"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-84474DA29FEA47F89C94920A.sh    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    /bin/sh -c /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/Script-84474DA29FEA47F89C94920A.sh36"B27A385D-7688-484A-BC0D-B73092221961-
+bF3021640-B40C-4431-B37D-A42FA9092234
+
+CProcessInfoPlistFile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Info.plist /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingCocoaPods-Info.plist
+s422392983.416973
+e422392983.418317
+r1
+xProcessInfoPlistFile
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Info.plist
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingCocoaPods-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Process /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingCocoaPods-Info.plist134"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Info.plist TestingCocoaPods/TestingCocoaPods-Info.plistb4cc6a97342db941^48176b97342db941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingCocoaPods-Info.plist0000000000000000^1078"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Info.plist TestingCocoaPods/TestingCocoaPods-Info.plist    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingCocoaPods-Info.plist -genpkginfo /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/assetcatalog_generated_info.plist -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app/Info.plist36"AA284201-EC28-41AF-8EE1-533556F3487C-
+b0C9D59C3-F3F2-471C-8FBA-0AD3C678B64C
+
+CProcessPCH /Users/richardarmstrong/Library/Developer/Xcode/DerivedData/TestingCocoaPods-aeuqgzrijrcwkkgbnwuzmvnacumd/Index/PrecompiledHeaders/TestingCocoaPods-Prefix-axakyvzczttloufbrxnoohfhjvel_ast/TestingCocoaPods-Prefix.pch.pch TestingCocoaPods/TestingCocoaPods-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch.pch TestingCocoaPods/TestingCocoaPods-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422379093.128396
+e422379093.306113
+r1
+xProcessPCH
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch.pch
+xTestingCocoaPods/TestingCocoaPods-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingCocoaPods-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Precompile TestingCocoaPods/TestingCocoaPods-Prefix.pch247"ProcessPCH Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch.pch TestingCocoaPods/TestingCocoaPods-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler77f32055fe2cb941^54724e55fe2cb941^---0#0#1#-19%DVTDocumentLocation2@113"file:///Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingCocoaPods-Prefix.pch0000000000000000^6130"ProcessPCH Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch.pch TestingCocoaPods/TestingCocoaPods-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/richardarmstrong/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-generated-files.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-own-target-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-all-target-headers.hmap -iquote /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/TestingCocoaPods-project-headers.hmap -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/include -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources/i386 -I/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/TestingCocoaPods.build/Debug-iphonesimulator/TestingCocoaPods.build/DerivedSources -F/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFNetworking -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/AFOAuth2Client -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/CoreData -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Network -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/ObjectMapping -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/RestKit/RestKit/Support -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/SOCKit -isystem /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Headers/TransitionKit --serialize-diagnostics /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch.dia -MMD -MT dependencies -MF /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch.d -c /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/TestingCocoaPods/TestingCocoaPods-Prefix.pch -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/PrecompiledHeaders/TestingCocoaPods-Prefix-emkazisdowofxqfpafzncgtiguhp/TestingCocoaPods-Prefix.pch.pch36"02B2D9E2-AA5E-4310-BD01-C3A1EA706E0D-
+b383A49CC-9CD7-4B70-945E-954116E4704B
+
+CTouch /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app
+s422393031.775032
+e422393031.780419
+r1
+xTouch
+x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Touch /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app63"Touch Build/Products/Debug-iphonesimulator/TestingCocoaPods.app8273c6c7342db941^08ccc7c7342db941^---0#0#1#--470"Touch Build/Products/Debug-iphonesimulator/TestingCocoaPods.app    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/TestingCocoaPods.app36"592CFBC8-5EE1-468F-B1F0-2CC6D53A78A3-
+b9544B717-5268-40DB-BBF9-4C19596F8A9C
+

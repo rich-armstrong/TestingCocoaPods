@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/RestKit/Code/Network/RKHTTPRequestOperation.m \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/RestKit/Code/Network/RKHTTPRequestOperation.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/AFNetworking/AFNetworking/AFNetworking.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/AFNetworking/AFNetworking/AFJSONRequestOperation.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/AFNetworking/AFNetworking/AFXMLRequestOperation.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/AFNetworking/AFNetworking/AFPropertyListRequestOperation.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/AFNetworking/AFNetworking/AFHTTPClient.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/AFNetworking/AFNetworking/AFImageRequestOperation.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/AFNetworking/AFNetworking/AFNetworkActivityIndicatorManager.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/AFNetworking/AFNetworking/UIImageView+AFNetworking.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/RestKit/Code/Support/RKLog.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/RestKit/Vendor/LibComponentLogging/Core/lcl_RK.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/RestKit/Code/Support/lcl_config_components_RK.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/RestKit/Code/Support/lcl_config_logger_RK.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/RestKit/Vendor/LibComponentLogging/NSLog/LCLNSLog_RK.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/RestKit/Code/Support/lcl_config_extensions_RK.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/RestKit/Code/ObjectMapping/RKHTTPUtilities.h \
+  /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/RestKit/Code/Support/RKMIMETypes.h
