@@ -9,8 +9,9 @@
 #import "TestingViewController.h"
 #import "AFHTTPRequestOperation.h"
 #import "LIALinkedInHttpClient.h"
-//#import "LIALinkedInClientExampleCredentials.h"
 #import "LIALinkedInApplication.h"
+#import <AFOAuth2Client/AFOAuth2Client.h>
+
 @interface TestingViewController ()
 
 @property (strong, nonatomic) NSString * kClientID;
@@ -31,6 +32,7 @@
 }
 
 - (IBAction)didTapConnectWithLinkedIn:(id)sender {
+    NSLog(@"OAUTH: STEP 1"); // NSLog(@"didTapConnectWithLinkedIn");
     [self.client getAuthorizationCode:^(NSString *code) {
         [self.client getAccessToken:code success:^(NSDictionary *accessTokenData) {
             NSString *accessToken = [accessTokenData objectForKey:@"access_token"];
@@ -46,13 +48,24 @@
 }
 
 - (void)requestMeWithToken:(NSString *)accessToken {
+    NSLog(@"OAUTH: STEP 5");
     NSLog(@"requestMeWithToken called: WithToken %@", accessToken);
-////    [self.client GET:[NSString stringWithFormat:@"https://api.linkedin.com/v1/people/~?oauth2_access_token=%@&format=json", accessToken] parameters:nil success:^(AFHTTPRequestOperation *operation, NSDictionary *result) {
-//    
-//        NSLog(@"current user %@", result);
-//    }        failure:^(AFHTTPRequestOperation *operation, NSError *error) {
-//        NSLog(@"failed to fetch current user %@", error);
-//    }];
+    
+    NSString * url = [NSString stringWithFormat:@"https://api.linkedin.com/v1/people/~?oauth2_access_token=%@&format=json", accessToken];
+    
+    NSMutableURLRequest * urlRequest = [_client requestWithMethod:@"GET"
+                                                          path:url
+                                                    parameters:nil];	// NSLog(@"%@", urlRequest);
+    
+    AFHTTPRequestOperation *operation = [[AFHTTPRequestOperation alloc] initWithRequest:urlRequest];
+    [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
+        NSData * data = (NSData *)responseObject;
+        NSDictionary *parsedJson = [NSJSONSerialization JSONObjectWithData:data options:0 error:nil];
+    	NSLog(@"%@", [parsedJson objectForKey:@"firstName"]);
+    } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
+        NSLog(@"Error: %@", error);
+    }];
+    [operation start];
 }
 
 - (LIALinkedInHttpClient *)client {
@@ -66,6 +79,23 @@
 }
 
 @end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

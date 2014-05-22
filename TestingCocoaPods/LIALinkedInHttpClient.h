@@ -21,10 +21,11 @@
 // THE SOFTWARE.
 
 #import <AFHTTPClient.h>
+#import "AFHTTPRequestOperation.h"
 
 @class LIALinkedInApplication;
 
-@interface LIALinkedInHttpClient : NSObject
+@interface LIALinkedInHttpClient : AFHTTPClient
 
 + (LIALinkedInHttpClient *)clientForApplication:(LIALinkedInApplication *)application;
 

@@ -45,8 +45,8 @@ t1400686291
 s775512
 
 N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods-AFOAuth2Client.a
-c00000000537CC6D40000000000010DF0
-t1400686292
+c00000000537DFF410000000000010DF0
+t1400766273
 s69104
 
 N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods-RestKit.a
@@ -65,7 +65,7 @@ t1400686291
 s110912
 
 N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a
-t1400686293
+t1400766273
 s3837952
 
 N/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Pods-dummy.m
@@ -78,7 +78,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesdbddfbd2382db941^9700fcd2382db941^---0#1#1#--18"Check dependencies36"3789C9DE-8676-49D5-89F5-96DD7A1B406B-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies68ae93be832eb941^9acd93be832eb941^---0#1#1#--18"Check dependencies36"23B885B9-8527-4A63-A7DC-948FA1543DA1-
 
 CCompileC /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods-dummy.o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods/Pods-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s422379092.878771
@@ -96,14 +96,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile
 b6E214B3E-EF66-4225-9489-7BA0F4230495
 
 CLibtool /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a normal i386
-s422379092.999712
-e422379093.091069
+s422459073.044348
+e422459073.143219
 r1
 xLibtool
 x/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a
 xnormal
 xi386
 o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods-RestKit.a(LCLNSLog_RK.o) has no symbols
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Libtool /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a normal i386128"Libtool /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a normal i3864cfaff54fe2cb941^a8521755fe2cb941^-249"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods-RestKit.a(LCLNSLog_RK.o) has no symbols-0#0#1#--1192"Libtool /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a normal i386    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -filelist /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -lPods-AFOAuth2Client -lPods-RestKit -lPods-SOCKit -lPods-TransitionKit -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a36"11D4EFB0-5631-4724-A0B4-BB6F6C001144-
-b6E214B3E-EF66-4225-9489-7BA0F4230495
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Libtool /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a normal i386128"Libtool /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a normal i38641660bc1362eb941^ebaa24c1362eb941^-249"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: file: /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods-RestKit.a(LCLNSLog_RK.o) has no symbols-0#0#1#--1192"Libtool /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a normal i386    cd /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator -filelist /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/Objects-normal/i386/Pods.LinkFileList -framework Foundation -lPods-AFNetworking -lPods-AFOAuth2Client -lPods-RestKit -lPods-SOCKit -lPods-TransitionKit -o /Users/richardarmstrong/Projects/RealMassive/TestingCocoaPods/Build/Products/Debug-iphonesimulator/libPods.a36"ACD494A4-6C51-4C90-A837-6C79B4F79A0C-
+bCF80E97A-6979-449F-B3D9-7D4440DD609E
 
