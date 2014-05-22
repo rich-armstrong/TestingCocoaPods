@@ -14,11 +14,6 @@
 
 @interface TestingViewController ()
 
-@property (strong, nonatomic) NSString * kClientID;
-@property (strong, nonatomic) NSString * kClientSecret;
-@property (strong, nonatomic) NSString * kState;
-@property (strong, nonatomic) NSString * kRedirectURL;
-@property (strong, nonatomic) NSString * kGrantedAccess;
 
 @end
 
@@ -48,11 +43,9 @@
 }
 
 - (void)requestMeWithToken:(NSString *)accessToken {
-    NSLog(@"OAUTH: STEP 5");
-    NSLog(@"requestMeWithToken called: WithToken %@", accessToken);
+    NSLog(@"OAUTH: STEP 5"); // NSLog(@"requestMeWithToken called: WithToken %@", accessToken);
     
     NSString * url = [NSString stringWithFormat:@"https://api.linkedin.com/v1/people/~?oauth2_access_token=%@&format=json", accessToken];
-    
     NSMutableURLRequest * urlRequest = [_client requestWithMethod:@"GET"
                                                           path:url
                                                     parameters:nil];	// NSLog(@"%@", urlRequest);
@@ -61,7 +54,7 @@
     [operation setCompletionBlockWithSuccess:^(AFHTTPRequestOperation *operation, id responseObject) {
         NSData * data = (NSData *)responseObject;
         NSDictionary *parsedJson = [NSJSONSerialization JSONObjectWithData:data options:0 error:nil];
-    	NSLog(@"%@", [parsedJson objectForKey:@"firstName"]);
+    	NSLog(@"%@", parsedJson);
     } failure:^(AFHTTPRequestOperation *operation, NSError *error) {
         NSLog(@"Error: %@", error);
     }];
